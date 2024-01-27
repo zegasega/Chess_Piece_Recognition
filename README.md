@@ -1,1 +1,1 @@
-![Açıklama metni]('example.png')
+![Example](example.png)
